@@ -3,6 +3,8 @@
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
   	<title>Canopy Lawn Care</title>
+	<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#33AFFF">
 </head>
 <style>
 	/* Style sheet provides html formatting */
