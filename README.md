@@ -125,7 +125,7 @@
 		</tr>
 		<tr class="round3">
 			<td>Triden Bionutrients Restore</td>
-			<td class="hiddenColumn">0.011</td>
+			<td class="hiddenColumn">0.176</td>
 			<td class="alignRight"></td>
 			<td>fl oz</td>
 		</tr>
@@ -155,9 +155,9 @@
 		</tr>
 		<tr class="round5">
 			<td>Triden Bionutrients Renew</td>
-			<td class="hiddenColumn">0.011</td>
+			<td class="hiddenColumn">0.176</td>
 			<td class="alignRight"></td>
-			<td>lbs</td>
+			<td>fl oz</td>
 		</tr>
 		<tr class="round5">
 			<td>Water</td>
