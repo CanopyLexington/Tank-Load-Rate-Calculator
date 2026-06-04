@@ -117,7 +117,7 @@
 			<td>lbs</td>
 		</tr>
 		<tr class="round3">
-			<td>Triden Bionutrients 10-3-5</td>
+			<td>Triden Bionutrients 10-0-5</td>
 			<td class="hiddenColumn">8.00</td>
 			<td class="alignRight"></td>
 			<td>fl oz</td>
@@ -129,19 +129,13 @@
 			<td>lbs</td>
 		</tr>
 		<tr class="round3">
-			<td>Pre-Emergent Herbicide</td>
-			<td class="hiddenColumn">0.50</td>
-			<td class="alignRight"></td>
-			<td>fl oz</td>
-		</tr>
-		<tr class="round3">
 			<td>Water</td>
 			<td class="hiddenColumn">256.00</td>
 			<td class="alignRight"></td>
 			<td>gal</td>
 		</tr>
 		<tr class="round4">
-			<td>Triden Bionutrients 10-3-5</td>
+			<td>Triden Bionutrients 10-0-5</td>
 			<td class="hiddenColumn">8.00</td>
 			<td class="alignRight"></td>
 			<td>fl oz</td>
@@ -153,7 +147,7 @@
 			<td>gal</td>
 		</tr>
 		<tr class="round5">
-			<td>Triden Bionutrients 10-3-5</td>
+			<td>Triden Bionutrients 10-0-5</td>
 			<td class="hiddenColumn">8.00</td>
 			<td class="alignRight"></td>
 			<td>fl oz</td>
