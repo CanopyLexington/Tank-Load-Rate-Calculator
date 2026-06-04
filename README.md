@@ -60,7 +60,7 @@
 	<div class="dataContainer">
 	    <p>Enter Square Feet:</p>
 
-	  <input type="text" id="squareFeet" placeholder="Enter Square Feet" value="84000" style="align-items:left;" />
+	  <input type="text" id="squareFeet" placeholder="Enter Square Feet" value="0" style="align-items:left;" />
 	  <label for="squareFeet">Sq Ft</label>
 
 	  <div id="messageBox" class="errMessage">&nbsp;</div>
