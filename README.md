@@ -73,6 +73,7 @@
 		 <option value="round3">Round 3</option>
 		 <option value="round4">Round 4</option>
 		 <option value="round5">Round 5</option>
+		 <option value="round6">Round 6</option>
 		 <option value="round7">Round 7</option>
 		 <option value="fungicide1">Fungicide 1</option>
 		 <option value="fungicide2">Fungicide 2</option>
@@ -159,22 +160,16 @@
 			<td>lbs</td>
 		</tr>
 		<tr class="round5">
-			<td>Broadcast Spray Post-Herbicide Quintessen</td>
-			<td class="hiddenColumn">1.45</td>
-			<td class="alignRight"></td>
-			<td>fl oz</td>
-		</tr>
-		<tr class="round5">
-			<td>Spot Spray MSO</td>
-			<td class="hiddenColumn">0.55</td>
-			<td class="alignRight"></td>
-			<td>fl oz</td>
-		</tr>
-		<tr class="round5">
 			<td>Water</td>
 			<td class="hiddenColumn">256.00</td>
 			<td class="alignRight"></td>
 			<td>gal</td>
+		</tr>
+		<tr class="round6">
+			<td>GRANULAR 20-0-6</td>
+			<td class="hiddenColumn">4.00</td>
+			<td class="alignRight"></td>
+			<td>lbs</td>
 		</tr>
 		<tr class="round7">
 			<td>Triden Bionutrients 10-0-5</td>
