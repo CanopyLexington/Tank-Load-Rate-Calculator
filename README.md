@@ -125,7 +125,7 @@
 		</tr>
 		<tr class="round3">
 			<td>Triden Bionutrients Restore</td>
-			<td class="hiddenColumn">0.01148</td>
+			<td class="hiddenColumn">0.011</td>
 			<td class="alignRight"></td>
 			<td>lbs</td>
 		</tr>
