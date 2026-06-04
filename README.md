@@ -69,6 +69,7 @@
 	  <select id="optItems" class="selectItems" onchange="filterRows(this.value); calculateLoadRate()">
 		 <option value="blank">Select ...</option>
 		 <option value="round1">Round 1</option>
+		 <option value="round2">Round 2</option>
 		 <option value="round3">Round 3</option>
 		 <option value="round4">Round 4</option>
 		 <option value="round5">Round 5</option>
@@ -102,6 +103,12 @@
 			<td class="hiddenColumn">1.00</td>
 			<td class="alignRight"></td>
 			<td>fl oz</td>
+		</tr>
+		<tr class="round2">
+			<td>GRANULAR 20-0-6</td>
+			<td class="hiddenColumn">4.00</td>
+			<td class="alignRight"></td>
+			<td>gal</td>
 		</tr>
 		<tr class="round3">
 			<td>Triden Bionutrients 10-3-5</td>
