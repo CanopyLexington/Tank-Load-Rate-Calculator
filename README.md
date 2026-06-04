@@ -106,7 +106,7 @@
 		</tr>
 		<tr class="round1">
 			<td>Water</td>
-			<td class="hiddenColumn">2.00</td>
+			<td class="hiddenColumn">200.00</td>
 			<td class="alignRight"></td>
 			<td>gal</td>
 		</tr>
@@ -136,7 +136,7 @@
 		</tr>
 		<tr class="round3">
 			<td>Water</td>
-			<td class="hiddenColumn">2.00</td>
+			<td class="hiddenColumn">200.00</td>
 			<td class="alignRight"></td>
 			<td>gal</td>
 		</tr>
@@ -148,7 +148,7 @@
 		</tr>
 		<tr class="round4">
 			<td>Water</td>
-			<td class="hiddenColumn">2.00</td>
+			<td class="hiddenColumn">200.00</td>
 			<td class="alignRight"></td>
 			<td>gal</td>
 		</tr>
@@ -178,7 +178,7 @@
 		</tr>
 		<tr class="round5">
 			<td>Water</td>
-			<td class="hiddenColumn">2.00</td>
+			<td class="hiddenColumn">200.00</td>
 			<td class="alignRight"></td>
 			<td>gal</td>
 		</tr>
@@ -190,7 +190,7 @@
 		</tr>
 		<tr class="round7">
 			<td>Water</td>
-			<td class="hiddenColumn">2.00</td>
+			<td class="hiddenColumn">200.00</td>
 			<td class="alignRight"></td>
 			<td>gal</td>
 		</tr>
