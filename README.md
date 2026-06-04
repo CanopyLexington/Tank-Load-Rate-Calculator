@@ -87,20 +87,20 @@
 			 <th class="colUnit">Unit</th>
 		</tr>
 		<tr class="round1">
-			<td>Triden Bionutrients 10-3-5</td>
-			<td class="hiddenColumn">15.00</td>
+			<td>Triden Bionutrients 10-0-5</td>
+			<td class="hiddenColumn">11.71875</td>
 			<td class="alignRight"></td>
 			<td>gal</td>
 		</tr>
 		<tr class="round1">
 			<td>Pre-Emergent Herbicide Prodiamine 4L</td>
-			<td class="hiddenColumn">0.60</td>
+			<td class="hiddenColumn">0.55</td>
 			<td class="alignRight"></td>
 			<td>fl oz</td>
 		</tr>
 		<tr class="round1">
-			<td>Broadcast Post-Herbicide</td>
-			<td class="hiddenColumn">1.00</td>
+			<td>Three-way</td>
+			<td class="hiddenColumn">1.50</td>
 			<td class="alignRight"></td>
 			<td>fl oz</td>
 		</tr>
