@@ -120,7 +120,7 @@
 			<td>Triden Bionutrients 10-0-5</td>
 			<td class="hiddenColumn">8.00</td>
 			<td class="alignRight"></td>
-			<td>fl oz</td>
+			<td>gal</td>
 		</tr>
 		<tr class="round3">
 			<td>Triden Bionutrients Restore</td>
@@ -138,7 +138,7 @@
 			<td>Triden Bionutrients 10-0-5</td>
 			<td class="hiddenColumn">8.00</td>
 			<td class="alignRight"></td>
-			<td>fl oz</td>
+			<td>gal</td>
 		</tr>
 		<tr class="round4">
 			<td>Water</td>
@@ -150,7 +150,7 @@
 			<td>Triden Bionutrients 10-0-5</td>
 			<td class="hiddenColumn">8.00</td>
 			<td class="alignRight"></td>
-			<td>fl oz</td>
+			<td>gal</td>
 		</tr>
 		<tr class="round5">
 			<td>Triden Bionutrients Renew</td>
@@ -177,10 +177,10 @@
 			<td>gal</td>
 		</tr>
 		<tr class="round7">
-			<td>Triden Bionutrients 10-3-5</td>
+			<td>Triden Bionutrients 10-0-5</td>
 			<td class="hiddenColumn">12.00</td>
 			<td class="alignRight"></td>
-			<td>fl oz</td>
+			<td>gal</td>
 		</tr>
 		<tr class="round7">
 			<td>Water</td>
