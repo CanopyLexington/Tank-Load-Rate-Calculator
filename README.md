@@ -104,11 +104,17 @@
 			<td class="alignRight"></td>
 			<td>fl oz</td>
 		</tr>
+		<tr class="round1">
+			<td>Water</td>
+			<td class="hiddenColumn">2.00</td>
+			<td class="alignRight"></td>
+			<td>gal</td>
+		</tr>
 		<tr class="round2">
 			<td>GRANULAR 20-0-6</td>
 			<td class="hiddenColumn">4.00</td>
 			<td class="alignRight"></td>
-			<td>gal</td>
+			<td>lbs</td>
 		</tr>
 		<tr class="round3">
 			<td>Triden Bionutrients 10-3-5</td>
@@ -128,11 +134,23 @@
 			<td class="alignRight"></td>
 			<td>fl oz</td>
 		</tr>
+		<tr class="round3">
+			<td>Water</td>
+			<td class="hiddenColumn">2.00</td>
+			<td class="alignRight"></td>
+			<td>gal</td>
+		</tr>
 		<tr class="round4">
 			<td>Triden Bionutrients 10-3-5</td>
 			<td class="hiddenColumn">8.00</td>
 			<td class="alignRight"></td>
 			<td>fl oz</td>
+		</tr>
+		<tr class="round4">
+			<td>Water</td>
+			<td class="hiddenColumn">2.00</td>
+			<td class="alignRight"></td>
+			<td>gal</td>
 		</tr>
 		<tr class="round5">
 			<td>Triden Bionutrients 10-3-5</td>
@@ -158,11 +176,23 @@
 			<td class="alignRight"></td>
 			<td>fl oz</td>
 		</tr>
+		<tr class="round5">
+			<td>Water</td>
+			<td class="hiddenColumn">2.00</td>
+			<td class="alignRight"></td>
+			<td>gal</td>
+		</tr>
 		<tr class="round7">
 			<td>Triden Bionutrients 10-3-5</td>
 			<td class="hiddenColumn">12.00</td>
 			<td class="alignRight"></td>
 			<td>fl oz</td>
+		</tr>
+		<tr class="round7">
+			<td>Water</td>
+			<td class="hiddenColumn">2.00</td>
+			<td class="alignRight"></td>
+			<td>gal</td>
 		</tr>
 		<tr class="fungicide1">
 			<td>Triden Bionutrients Active8</td>
