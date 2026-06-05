@@ -127,7 +127,7 @@
 			<td>Triden Bionutrients Restore</td>
 			<td class="hiddenColumn">0.176</td>
 			<td class="alignRight"></td>
-			<td>fl oz</td>
+			<td>oz</td>
 		</tr>
 		<tr class="round3">
 			<td>Water</td>
@@ -157,7 +157,7 @@
 			<td>Triden Bionutrients Renew</td>
 			<td class="hiddenColumn">0.176</td>
 			<td class="alignRight"></td>
-			<td>fl oz</td>
+			<td>oz</td>
 		</tr>
 		<tr class="round5">
 			<td>Water</td>
@@ -324,6 +324,7 @@
 	      const rate = Number(rateCell.textContent);
 	      switch (resultUnit.textContent) {
 	      	case "fl oz":
+			case "oz":
 	      	case "lbs":
 	      		result = sqFeet / 1000 * rate;
 	      		break;
