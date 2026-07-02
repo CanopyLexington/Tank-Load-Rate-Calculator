@@ -137,7 +137,7 @@
 		</tr>
 		<tr class="round4">
 			<td>Triden Bionutrients 10-0-5</td>
-			<td class="hiddenColumn">8.00</td>
+			<td class="hiddenColumn">4.00</td>
 			<td class="alignRight"></td>
 			<td>gal</td>
 		</tr>
